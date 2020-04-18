@@ -1,0 +1,148 @@
+# Blender MTL File: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.blend'
+# Material Count: 13
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#5FBE4499#0#2_all.png
+
+newmtl mtl_02000A90
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#94BC4349#0#2_all.png
+map_d C:\\Users\\greme\\Documents\\Truc trop ouf de dingue de dindon\\Rom\\Grandlovania\\MM J 1.0 files\\textures\\02000A90.tga
+
+newmtl mtl_02001A90
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#8C09BDE2#2#1#26369141_ciByRGBA.png
+map_d C:\\Users\\greme\\Documents\\Truc trop ouf de dingue de dindon\\Rom\\Grandlovania\\MM J 1.0 files\\textures\\02001A90.tga
+
+newmtl mtl_02001E90
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#0C2FD2DF#2#1#6E936A47_ciByRGBA.png
+map_d C:\\Users\\greme\\Documents\\Truc trop ouf de dingue de dindon\\Rom\\Grandlovania\\MM J 1.0 files\\textures\\02001E90.tga
+
+newmtl mtl_02002690
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#C755BD2A#2#1#736D9D10_ciByRGBA.png
+map_d C:\\Users\\greme\\Documents\\Truc trop ouf de dingue de dindon\\Rom\\Grandlovania\\MM J 1.0 files\\textures\\02002690.tga
+
+newmtl mtl_02003690
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#E0FD1A1D#2#1#210BED63_ciByRGBA.png
+
+newmtl mtl_02003A90
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#5F33D1F2#2#1#D57B5A0F_ciByRGBA.png
+
+newmtl mtl_02003C90
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Dungeons\Great Bay Temple\ZELDA MAJORA'S MASK#B373B80C#2#1#EFBFC9EA_ciByRGBA.png
+map_d C:\\Users\\greme\\Documents\\Truc trop ouf de dingue de dindon\\Rom\\Grandlovania\\MM J 1.0 files\\textures\\02003C90.tga
+
+newmtl mtl_02004490
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM J 1.0 files\textures\02004490.tga
+
+newmtl mtl_02004490_ZELDA_MAJORA'S_MASK#70468C3F#2#0#D950C841_ciByRGBA.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#70468C3F#2#0#D950C841_ciByRGBA.png
+
+newmtl mtl_02004890
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#E0FD1A1D#2#1#210BED63_ciByRGBA.png
+
+newmtl mtl_02005090
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Boss Room 03\ZELDA MAJORA'S MASK#F9F73B34#2#0#D950C841_ciByRGBA.png
+
+newmtl mtl_02005890
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\greme\Documents\Truc trop ouf de dingue de dindon\Rom\Grandlovania\MM_Rip\MAPS\Dungeons\Great Bay Temple\ZELDA MAJORA'S MASK#1E7E90CB#2#1#5248AF1B_ciByRGBA.png
